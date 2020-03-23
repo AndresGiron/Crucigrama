@@ -1,0 +1,23 @@
+El archivo txt que usa el programa para obtener las palabras del crucigrama tiene la siguiente estructura:
+
+numero 1------> coordenada inicial X
+numero 2------> coordenada inicial Y
+caracter------> Orientacion:
+			-(V)ertical
+			-(H)orizontal
+palabra
+
+repetir con cada palabra
+.
+.
+.
+.
+.
+.
+.
+.
+.
+- entre las palabras y las pistas existe un guion que denota separacion
+
+las pistas van correspondientes a cada palabra, es decir la primera palabra va con la pista 1,
+la segunda palabra va con la pista 2, etc...

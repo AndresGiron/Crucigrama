@@ -1,0 +1,51 @@
+2
+6
+V
+libro
+2
+9
+H
+regla
+6
+5
+V
+gimnasio
+6
+7
+H
+mesa
+5
+12
+H
+mochila
+11
+8
+V
+silla
+9
+3
+V
+borrador
+8
+4
+H
+rotulador
+13
+3
+V
+sacapuntas
+16
+2
+V
+carpeta
+-
+1.Objeto que sirve de base para los estudios y para leer.
+2.Objeto que sirve para medir, por ejemplo para medir el tamaño de tu mesa.
+3.Lugar donde se practican diversos deportes y las clases de gimnasia.
+4.Donde apoyas tus libros,tus cuadernos para escribir.
+5.Objeto que sirve para que puedas transportar tus libros y material escolar, se lleva a la espalda.
+6.Donde te sientas en la clase, en casa y en otros muchos lugares.
+7.Objeto utilizado para limpiar pizarra.
+8.Objeto de escritura que sirve para rotular y dibujar.
+9.Lo necesitas para hacer que el lapicero tenga punta.
+10.Objeto donde se colocan dentro folios u hojas de papel,recortes,etc.
