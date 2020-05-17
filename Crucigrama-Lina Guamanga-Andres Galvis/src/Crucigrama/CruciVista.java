@@ -26,6 +26,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.border.Border;
+import javax.swing.border.TitledBorder;
 
 
 // TODO: Auto-generated Javadoc
@@ -164,7 +165,7 @@ public class CruciVista extends JFrame {
 						{
 							if ( x != coorX && control.palabras.get(z).get(w).getX() == control.palabras.get(x).get(y).getX() && control.palabras.get(z).get(w).getY() == control.palabras.get(x).get(y).getY()) {
 								
-								Border bordegenerico = BorderFactory.createTitledBorder((x+1)+"");
+								Border bordegenerico = BorderFactory.createTitledBorder(BorderFactory.createEtchedBorder(), "My Demo Table", TitledBorder.CENTER, TitledBorder.BOTTOM);
 								
 								control.palabras.get(x).get(y).setBorder(bordegenerico);
 								control.palabras.get(z).get(w).setBorder(bordegenerico);
